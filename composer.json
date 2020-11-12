@@ -1,0 +1,12 @@
+{
+    "name": "nhathq/nhattest",
+    "description": "tuanml",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+		    "Nhatpackagist1\\Nhatpackagist2\\":"test/"
+		}
+	}
+}
